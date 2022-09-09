@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joosep-proggers
 - 👀 I’m interested in fortntie
 - 🌱 I’m currently learning codeing very good
-- 💞️ I’m looking to collaborate on noWEHERE
 - 📫 How to reach me: behind the Karete Konsum
 
 <!---
